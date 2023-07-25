@@ -1,8 +1,8 @@
-name = "Docsy"
+name = "OpenTesting.AI"
 license = "Apache 2.0"
 licenselink = "https://github.com/google/docsy/blob/main/LICENSE"
-description = "A Hugo theme for technical documentation sites"
-homepage = "https://docsy.dev"
+description = "xpto v"
+homepage = ""
 tags = ["documentation", "multilingual", "customizable", "responsive", "docs"]
 features = []
 min_version = "0.110.0"
